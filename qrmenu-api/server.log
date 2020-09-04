@@ -1,0 +1,315 @@
+ERROR 08/06/2020, 12:15:14 - could not connect to mongo
+ERROR 08/06/2020, 12:27:13 - could not connect to mongo
+ERROR 08/06/2020, 12:28:13 - could not connect to mongo
+ERROR 09/06/2020, 07:49:21 - response with error status 500 - Error: A28775120 is not a NIF
+WARN 09/06/2020, 07:59:22 - response with error status 409 - DuplicityError: user with nif 20448598B already exists
+WARN 09/06/2020, 08:02:01 - response with error status 409 - DuplicityError: user with nif 20448598B already exists
+WARN 09/06/2020, 08:07:23 - response with error status 409 - DuplicityError: user with nif 20448598B already exists
+WARN 09/06/2020, 08:09:12 - response with error status 409 - DuplicityError: user with nif 20448598B already exists
+WARN 09/06/2020, 08:16:38 - response with error status 409 - DuplicityError: user with nif 20448598A already exists
+WARN 09/06/2020, 08:16:50 - response with error status 409 - DuplicityError: user with nif 20448598G already exists
+WARN 09/06/2020, 08:17:38 - response with error status 409 - DuplicityError: user with nif 20448598G already exists
+WARN 09/06/2020, 08:20:40 - response with error status 409 - DuplicityError: user with nif 20448598G already exists
+WARN 09/06/2020, 08:28:36 - response with error status 409 - DuplicityError: user with nif 20448598G already exists
+WARN 09/06/2020, 08:29:03 - response with error status 409 - DuplicityError: user with nif 12345678H already exists
+WARN 09/06/2020, 08:34:02 - response with error status 409 - DuplicityError: user with nif 12345678H already exists
+WARN 09/06/2020, 09:06:11 - response with error status 409 - DuplicityError: user with nif 12345678H already exists
+WARN 09/06/2020, 09:11:41 - response with error status 409 - DuplicityError: user with nif 12345678H already exists
+WARN 09/06/2020, 09:16:46 - response with error status 406 - TypeError: Cannot read property 'hash' of undefined
+WARN 09/06/2020, 09:18:35 - response with error status 409 - DuplicityError: user with nif 12345678H already exists
+WARN 09/06/2020, 11:49:30 - response with error status 401 - CredentialsError: wrong password
+ERROR 12/06/2020, 13:47:27 - response with error status 500 - ReferenceError: nif is not defined
+ERROR 12/06/2020, 13:52:27 - response with error status 500 - ReferenceError: nif is not defined
+ERROR 12/06/2020, 13:53:36 - response with error status 500 - ReferenceError: nif is not defined
+ERROR 12/06/2020, 13:54:26 - response with error status 500 - ReferenceError: nif is not defined
+WARN 12/06/2020, 13:55:30 - response with error status 409 - UnexistenceError: Establishment with nif 13726747F does not exist
+WARN 12/06/2020, 13:57:55 - response with error status 409 - UnexistenceError: Establishment with nif 13726747F does not exist
+WARN 12/06/2020, 14:37:56 - response with error status 409 - UnexistenceError: Establishment with nif 13726747F does not exist
+WARN 12/06/2020, 14:42:16 - response with error status 406 - TypeError: undefined is not a string
+WARN 12/06/2020, 15:28:33 - response with error status 406 - TypeError: undefined is not a string
+WARN 12/06/2020, 17:04:09 - response with error status 406 - TypeError: ['sushi','arroz'] is not an array
+WARN 12/06/2020, 17:05:15 - response with error status 406 - TypeError: ['sushi','arroz'] is not an array
+WARN 12/06/2020, 17:11:32 - response with error status 406 - TypeError: ['sushi','arroz'] is not an array
+WARN 12/06/2020, 18:42:46 - response with error status 406 - TypeError: retrieveDishes is not a function
+ERROR 14/06/2020, 13:50:39 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+ERROR 14/06/2020, 15:35:15 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+ERROR 14/06/2020, 15:37:16 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+ERROR 14/06/2020, 15:39:57 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+ERROR 14/06/2020, 15:48:19 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+ERROR 14/06/2020, 15:50:27 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+ERROR 14/06/2020, 15:58:49 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+ERROR 14/06/2020, 16:40:40 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+ERROR 14/06/2020, 16:41:38 - response with error status 500 - MongoError: E11000 duplicate key error collection: qrmenu-api.establishments index: email_1 dup key: { : null }
+WARN 15/06/2020, 17:05:11 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:06:42 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:07:39 - response with error status 409 - UnexistenceError: Establishment with nif 37722273A does not exist
+WARN 15/06/2020, 17:11:52 - response with error status 409 - UnexistenceError: Establishment with nif 72909266E does not exist
+WARN 15/06/2020, 17:12:58 - response with error status 409 - UnexistenceError: Establishment with nif 21822427N does not exist
+WARN 15/06/2020, 17:16:56 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:18:01 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:18:26 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:19:30 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:22:06 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:22:06 - response with error status 409 - UnexistenceError: Establishment with nif 49993949J does not exist
+WARN 15/06/2020, 17:24:31 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:25:31 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:25:31 - response with error status 409 - UnexistenceError: Establishment with nif 33565010R does not exist
+WARN 15/06/2020, 17:26:49 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:27:01 - response with error status 409 - UnexistenceError: Establishment with nif 59262779Y does not exist
+WARN 15/06/2020, 17:29:12 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:29:12 - response with error status 409 - UnexistenceError: User with e-mail wrong-e-0.03744094325640712@mail.com does not exist
+WARN 15/06/2020, 17:29:53 - response with error status 409 - UnexistenceError: Establishment with nif 71985608V does not exist
+WARN 15/06/2020, 17:29:53 - response with error status 409 - UnexistenceError: User with e-mail wrong-e-0.0566851089739866@mail.com does not exist
+WARN 15/06/2020, 17:30:25 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:30:25 - response with error status 409 - UnexistenceError: User with e-mail wrong-e-0.8083203512903261@mail.com does not exist
+WARN 15/06/2020, 17:30:34 - response with error status 401 - CredentialsError: wrong password
+WARN 15/06/2020, 17:30:34 - response with error status 409 - UnexistenceError: User with e-mail wrong-e-0.32353803733753805@mail.com does not exist
+WARN 17/06/2020, 09:57:02 - response with error status 409 - UnexistenceError: Establishment with nif 25326857H does not exist
+ERROR 17/06/2020, 09:57:47 - response with error status 500 - ReferenceError: workerId is not defined
+ERROR 17/06/2020, 18:15:21 - response with error status 500 - TokenExpiredError: jwt expired
+WARN 17/06/2020, 18:27:36 - response with error status 409 - UnexistenceError: Table with number 5eea1a5d43f29a49eb71a4aa does not exist
+ERROR 17/06/2020, 18:49:56 - response with error status 500 - ReferenceError: tableId is not defined
+WARN 17/06/2020, 18:50:26 - response with error status 409 - UnexistenceError: Table with number 5eea1a5d43f29a49eb71a4aa does not exist
+WARN 17/06/2020, 18:50:52 - response with error status 409 - UnexistenceError: Table with number 5eea1a5d43f29a49eb71a4aa does not exist
+WARN 17/06/2020, 18:51:33 - response with error status 409 - UnexistenceError: Table with number 5eea1a5d43f29a49eb71a4aa does not exist
+ERROR 17/06/2020, 19:11:02 - response with error status 500 - ValidationError: orders.0.date: Path `date` is required., orders.0.total: Path `total` is required., orders.0.table: Path `table` is required.
+ERROR 18/06/2020, 08:14:46 - response with error status 500 - ValidationError: orders.0.table: Path `table` is required.
+WARN 18/06/2020, 08:18:53 - response with error status 409 - UnexistenceError: Establishment with id 5ee7b58d0b35bf41c81e88be does not exist
+WARN 18/06/2020, 08:19:03 - response with error status 409 - UnexistenceError: Establishment with nif 12345678A does not exist
+WARN 18/06/2020, 08:21:24 - response with error status 409 - UnexistenceError: Establishment with id 5ee7b58d0b35bf41c81e88be does not exist
+ERROR 18/06/2020, 08:21:42 - response with error status 500 - ValidationError: orders.0.table: Path `table` is required.
+ERROR 18/06/2020, 08:22:35 - response with error status 500 - ValidationError: orders.0.table: Path `table` is required.
+ERROR 18/06/2020, 08:28:18 - response with error status 500 - ValidationError: orders.0.table: Path `table` is required.
+ERROR 18/06/2020, 08:30:42 - response with error status 500 - ValidationError: orders.0.table: Path `table` is required.
+ERROR 18/06/2020, 08:31:25 - response with error status 500 - ValidationError: orders.0.table: Path `table` is required.
+ERROR 18/06/2020, 08:34:03 - response with error status 500 - ValidationError: orders.0.table: Path `table` is required.
+ERROR 18/06/2020, 09:08:30 - response with error status 500 - ReferenceError: ordeers is not defined
+ERROR 18/06/2020, 09:09:06 - response with error status 500 - Error
+WARN 18/06/2020, 09:17:42 - response with error status 406 - TypeError: dishes.findById is not a function
+WARN 18/06/2020, 09:18:27 - response with error status 409 - UnexistenceError: Dish with id null
+WARN 18/06/2020, 09:24:15 - response with error status 409 - UnexistenceError: Dish with id 5eeb07758d0e866bf28da90c does not exist
+ERROR 18/06/2020, 11:56:06 - response with error status 500 - ReferenceError: DishStatus is not defined
+WARN 18/06/2020, 12:01:13 - response with error status 409 - UnexistenceError: Establishment with id 5eeb073a8d0e866bf28da90a does not exist
+WARN 18/06/2020, 12:01:48 - response with error status 401 - CredentialsError: Permission denied
+WARN 18/06/2020, 12:02:07 - response with error status 409 - UnexistenceError: Establishment with id 5eeb073a8d0e866bf28da90a does not exist
+WARN 18/06/2020, 12:02:37 - response with error status 409 - UnexistenceError: Dish with id 5eeb07758d0e866bf28da90c does not exist
+WARN 18/06/2020, 12:17:17 - response with error status 409 - UnexistenceError: Dish with id 5eeb3eb773edab68b6e59eed does not exist
+WARN 18/06/2020, 13:03:40 - response with error status 401 - CredentialsError: Permission denied
+WARN 18/06/2020, 13:15:43 - response with error status 406 - TypeError: tableActive is not a function
+WARN 18/06/2020, 13:27:03 - response with error status 409 - UnexistenceError: Establishment with id 5eeb3ea373edab68b6e59eeb does not exist
+WARN 18/06/2020, 19:44:56 - response with error status 409 - UnexistenceError: Establishment with nif 12345678A does not exist
+WARN 19/06/2020, 10:40:46 - response with error status 409 - UnexistenceError: There are no tables yet
+WARN 19/06/2020, 10:41:47 - response with error status 409 - UnexistenceError: There are no tables yet
+WARN 19/06/2020, 10:42:46 - response with error status 409 - UnexistenceError: There are no tables yet
+WARN 19/06/2020, 17:38:25 - response with error status 409 - UnexistenceError: Table with id 5eec7b028e4b527c8456fcf6 does not exist
+WARN 19/06/2020, 17:39:11 - response with error status 409 - UnexistenceError: Table with id 5eec7b028e4b527c8456fcf6 does not exist
+WARN 22/06/2020, 11:34:34 - response with error status 401 - CredentialsError: Permission denied
+WARN 22/06/2020, 11:55:14 - response with error status 401 - CredentialsError: Permission denied
+WARN 22/06/2020, 12:43:03 - response with error status 401 - CredentialsError: wrong password
+WARN 22/06/2020, 16:25:06 - response with error status 406 - TypeError: userDishes.map is not a function
+WARN 22/06/2020, 18:25:29 - response with error status 401 - CredentialsError: Permission denied
+WARN 22/06/2020, 18:43:59 - response with error status 409 - UnexistenceError: Table with id 5eedfc1956012e6c3dbb7cb0 does not exist
+WARN 22/06/2020, 18:44:08 - response with error status 409 - UnexistenceError: Table with id 5eedfc1956012e6c3dbb7cb0 does not exist
+WARN 22/06/2020, 22:22:29 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:22:29 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:22:29 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:22:29 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:26:46 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:26:46 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:26:47 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:26:47 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:27:13 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:27:21 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:27:28 - response with error status 406 - TypeError: undefined is not a string
+WARN 22/06/2020, 22:27:30 - response with error status 406 - TypeError: undefined is not a string
+ERROR 23/06/2020, 09:45:23 - response with error status 500 - ReferenceError: dishId is not defined
+ERROR 23/06/2020, 09:45:54 - response with error status 500 - ReferenceError: dish is not defined
+ERROR 23/06/2020, 10:07:47 - response with error status 500 - ReferenceError: element is not defined
+WARN 23/06/2020, 10:32:46 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:32:49 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:33:16 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:33:26 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:33:33 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:33:56 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:34:34 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:35:04 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:45:05 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:45:12 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:45:47 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:45:52 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:47:12 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:47:17 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:48:17 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 10:50:59 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:24:52 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:26:11 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:26:45 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:27:04 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:27:13 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:28:33 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:28:43 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:29:12 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:29:24 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:31:50 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:31:58 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:33:42 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:38:55 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:41:21 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:43:02 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 11:48:36 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 12:00:34 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 12:03:35 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 12:04:14 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 12:06:12 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 12:10:55 - response with error status 406 - TypeError: undefined is not an array
+WARN 23/06/2020, 12:14:25 - response with error status 406 - TypeError: [object Object],[object Object],[object Object],[object Object] is not an array
+WARN 23/06/2020, 12:18:26 - response with error status 406 - TypeError: [object Object],[object Object],[object Object],[object Object] is not an array
+WARN 23/06/2020, 12:22:16 - response with error status 406 - TypeError: 5eedfc2b56012e6c3dbb7cb1,5ef0778f897ab109c24859f1,5eedfc2b56012e6c3dbb7cb1,5ef0778f897ab109c24859f1 is not an array
+WARN 23/06/2020, 12:25:15 - response with error status 406 - TypeError: 5eedfc2b56012e6c3dbb7cb1,5ef0778f897ab109c24859f1,5eedfc2b56012e6c3dbb7cb1,5ef0778f897ab109c24859f1 is not an array
+WARN 23/06/2020, 12:26:01 - response with error status 406 - TypeError: 5eedfc2b56012e6c3dbb7cb1,5ef0778f897ab109c24859f1,5eedfc2b56012e6c3dbb7cb1,5ef0778f897ab109c24859f1 is not an array
+WARN 23/06/2020, 22:31:16 - response with error status 406 - TypeError: retrieveDish is not a function
+WARN 23/06/2020, 22:33:40 - response with error status 406 - TypeError: retrieveDish is not a function
+WARN 23/06/2020, 22:36:11 - response with error status 406 - TypeError: retrieveDish is not a function
+ERROR 23/06/2020, 22:38:04 - response with error status 500 - ReferenceError: retrieveDish is not defined
+WARN 24/06/2020, 12:05:31 - response with error status 409 - UnexistenceError: Establishment with nif 82591477X does not exist
+WARN 24/06/2020, 12:05:31 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:07:38 - response with error status 409 - UnexistenceError: Establishment with nif 11439169C does not exist
+WARN 24/06/2020, 12:07:38 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:07:38 - response with error status 409 - UnexistenceError: User with e-mail wrong-e-0.8726764556257087@mail.com does not exist
+WARN 24/06/2020, 12:08:54 - response with error status 409 - UnexistenceError: Establishment with nif 80153150H does not exist
+WARN 24/06/2020, 12:08:54 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:08:54 - response with error status 409 - UnexistenceError: User with e-mail wrong-e-0.6333643556220965@mail.com does not exist
+WARN 24/06/2020, 12:10:45 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:10:46 - response with error status 409 - UnexistenceError: User with e-mail wrong-e-0.9149274013619189@mail.com does not exist
+WARN 24/06/2020, 12:10:46 - response with error status 409 - UnexistenceError: User with e-mail wrong-e-0.4839585017592938@mail.com does not exist
+WARN 24/06/2020, 12:13:16 - response with error status 409 - UnexistenceError: Establishment with nif 83310437Y does not exist
+WARN 24/06/2020, 12:13:16 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:13:16 - response with error status 409 - UnexistenceError: Establishment with nif 21170589S does not exist
+WARN 24/06/2020, 12:14:07 - response with error status 409 - UnexistenceError: Establishment with nif 89143431K does not exist
+WARN 24/06/2020, 12:14:07 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:14:07 - response with error status 409 - UnexistenceError: Establishment with nif 62857394K does not exist
+WARN 24/06/2020, 12:17:56 - response with error status 409 - UnexistenceError: Establishment with nif 25737862E does not exist
+WARN 24/06/2020, 12:17:57 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:17:57 - response with error status 409 - UnexistenceError: Establishment with nif 24706256E does not exist
+WARN 24/06/2020, 12:18:04 - response with error status 409 - UnexistenceError: Establishment with nif 09196890V does not exist
+WARN 24/06/2020, 12:18:04 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:18:04 - response with error status 409 - UnexistenceError: Establishment with nif 33146632N does not exist
+WARN 24/06/2020, 12:18:26 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:18:27 - response with error status 409 - UnexistenceError: Establishment with nif 35534045A does not exist
+WARN 24/06/2020, 12:18:52 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:18:52 - response with error status 409 - UnexistenceError: Establishment with nif 87269152S does not exist
+WARN 24/06/2020, 12:19:27 - response with error status 409 - UnexistenceError: Establishment with nif 07035784V does not exist
+WARN 24/06/2020, 12:19:28 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:19:28 - response with error status 409 - UnexistenceError: Establishment with nif 14339134Z does not exist
+WARN 24/06/2020, 12:19:42 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:19:43 - response with error status 409 - UnexistenceError: Establishment with nif 84583792L does not exist
+WARN 24/06/2020, 12:19:50 - response with error status 409 - UnexistenceError: Establishment with nif 80109674R does not exist
+WARN 24/06/2020, 12:19:50 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:19:50 - response with error status 409 - UnexistenceError: Establishment with nif 33362977T does not exist
+WARN 24/06/2020, 12:45:13 - response with error status 409 - UnexistenceError: Establishment with nif 25093398Q does not exist
+WARN 24/06/2020, 12:45:13 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:45:14 - response with error status 409 - UnexistenceError: Establishment with nif 38321905Z does not exist
+ERROR 24/06/2020, 12:48:39 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 12:51:06 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 12:51:06 - response with error status 500 - JsonWebTokenError: invalid signature
+WARN 24/06/2020, 12:53:00 - response with error status 409 - UnexistenceError: Establishment with nif 21921568R does not exist
+WARN 24/06/2020, 12:53:00 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 12:53:00 - response with error status 409 - UnexistenceError: Establishment with nif 11279335Z does not exist
+ERROR 24/06/2020, 12:53:01 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 12:53:01 - response with error status 500 - JsonWebTokenError: invalid signature
+WARN 24/06/2020, 14:40:59 - response with error status 409 - UnexistenceError: Establishment with nif 09822905V does not exist
+WARN 24/06/2020, 14:40:59 - response with error status 409 - UnexistenceError: Establishment with nif 98199644D does not exist
+WARN 24/06/2020, 14:40:59 - response with error status 409 - UnexistenceError: Establishment with nif 11566824D does not exist
+ERROR 24/06/2020, 14:40:59 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 14:40:59 - response with error status 500 - JsonWebTokenError: invalid signature
+WARN 24/06/2020, 14:42:22 - response with error status 409 - UnexistenceError: Establishment with nif 91385942X does not exist
+WARN 24/06/2020, 14:42:22 - response with error status 409 - UnexistenceError: Establishment with nif 09575611F does not exist
+ERROR 24/06/2020, 14:42:23 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 14:42:23 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:23:11 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:23:37 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:41:01 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:41:01 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:41:14 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:41:14 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:43:38 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:43:38 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:44:16 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:47:14 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:47:14 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:48:03 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:55:21 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:55:27 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:56:55 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:58:01 - response with error status 500 - JsonWebTokenError: invalid token
+ERROR 24/06/2020, 15:58:29 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 24/06/2020, 15:58:54 - response with error status 409 - UnexistenceError: Establishment with nif 79353823M does not exist
+WARN 24/06/2020, 15:58:54 - response with error status 409 - UnexistenceError: Establishment with nif 89263386Y does not exist
+ERROR 24/06/2020, 15:58:55 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:58:55 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 15:58:56 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 24/06/2020, 16:02:37 - response with error status 409 - UnexistenceError: Establishment with nif 92076399S does not exist
+WARN 24/06/2020, 16:02:37 - response with error status 409 - UnexistenceError: Establishment with nif 98225321B does not exist
+ERROR 24/06/2020, 16:02:38 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:02:38 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:02:38 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 24/06/2020, 16:04:35 - response with error status 409 - UnexistenceError: Establishment with nif 79408655A does not exist
+WARN 24/06/2020, 16:04:36 - response with error status 409 - UnexistenceError: Establishment with nif 76544044N does not exist
+ERROR 24/06/2020, 16:04:36 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:04:36 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:04:37 - response with error status 500 - JsonWebTokenError: invalid token
+ERROR 24/06/2020, 16:04:49 - response with error status 500 - JsonWebTokenError: invalid token
+ERROR 24/06/2020, 16:05:48 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 24/06/2020, 16:05:56 - response with error status 409 - UnexistenceError: Establishment with nif 21912279R does not exist
+WARN 24/06/2020, 16:05:56 - response with error status 409 - UnexistenceError: Establishment with nif 43232621Y does not exist
+ERROR 24/06/2020, 16:05:56 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:05:56 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:05:57 - response with error status 500 - JsonWebTokenError: invalid token
+ERROR 24/06/2020, 16:05:57 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 24/06/2020, 16:26:31 - response with error status 409 - UnexistenceError: Establishment with nif 08685351L does not exist
+WARN 24/06/2020, 16:26:31 - response with error status 409 - UnexistenceError: Establishment with nif 81896634T does not exist
+ERROR 24/06/2020, 16:26:32 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:26:32 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:26:33 - response with error status 500 - JsonWebTokenError: invalid token
+ERROR 24/06/2020, 16:26:33 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 24/06/2020, 16:26:58 - response with error status 409 - UnexistenceError: Establishment with nif 31483203H does not exist
+WARN 24/06/2020, 16:26:58 - response with error status 409 - UnexistenceError: Establishment with nif 23676593Q does not exist
+ERROR 24/06/2020, 16:26:59 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:26:59 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:27:00 - response with error status 500 - JsonWebTokenError: invalid token
+ERROR 24/06/2020, 16:27:00 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 24/06/2020, 16:28:38 - response with error status 409 - UnexistenceError: Establishment with nif 64817332A does not exist
+WARN 24/06/2020, 16:28:38 - response with error status 401 - CredentialsError: wrong password
+WARN 24/06/2020, 16:28:38 - response with error status 409 - UnexistenceError: Establishment with nif 98662541B does not exist
+ERROR 24/06/2020, 16:28:39 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:28:39 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 24/06/2020, 16:28:40 - response with error status 500 - JsonWebTokenError: invalid token
+ERROR 24/06/2020, 16:28:40 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 24/06/2020, 20:26:01 - response with error status 409 - UnexistenceError: Establishment with nif 12345678A does not exist
+WARN 24/06/2020, 20:27:39 - response with error status 409 - UnexistenceError: Establishment with nif 12345678A does not exist
+WARN 25/06/2020, 00:43:51 - response with error status 409 - UnexistenceError: Establishment with nif 12312321D does not exist
+WARN 25/06/2020, 00:46:12 - response with error status 409 - UnexistenceError: Establishment with nif 12312321D does not exist
+ERROR 25/06/2020, 00:46:15 - response with error status 500 - JsonWebTokenError: jwt malformed
+ERROR 25/06/2020, 00:46:39 - response with error status 500 - JsonWebTokenError: jwt malformed
+ERROR 25/06/2020, 00:46:39 - response with error status 500 - JsonWebTokenError: jwt malformed
+ERROR 25/06/2020, 00:47:13 - response with error status 500 - JsonWebTokenError: jwt malformed
+ERROR 25/06/2020, 00:49:04 - response with error status 500 - JsonWebTokenError: jwt malformed
+ERROR 25/06/2020, 00:49:04 - response with error status 500 - JsonWebTokenError: jwt malformed
+ERROR 25/06/2020, 00:50:20 - response with error status 500 - JsonWebTokenError: jwt malformed
+ERROR 25/06/2020, 00:50:20 - response with error status 500 - JsonWebTokenError: jwt malformed
+WARN 25/06/2020, 00:51:56 - response with error status 409 - UnexistenceError: Establishment with nif 12312321D does not exist
+WARN 25/06/2020, 09:02:57 - response with error status 409 - UnexistenceError: Establishment with id 5ef263a6a4808f685d2f10cb does not exist
+WARN 25/06/2020, 09:02:57 - response with error status 409 - UnexistenceError: Establishment with id 5ef263a6a4808f685d2f10cb does not exist
+WARN 25/06/2020, 09:20:43 - response with error status 409 - UnexistenceError: Establishment with nif 12571014X does not exist
+WARN 25/06/2020, 09:20:44 - response with error status 401 - CredentialsError: wrong password
+WARN 25/06/2020, 09:20:44 - response with error status 409 - UnexistenceError: Establishment with nif 49122117V does not exist
+ERROR 25/06/2020, 09:20:44 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 25/06/2020, 09:20:44 - response with error status 500 - JsonWebTokenError: invalid signature
+ERROR 25/06/2020, 09:20:45 - response with error status 500 - JsonWebTokenError: invalid token
+ERROR 25/06/2020, 09:20:45 - response with error status 500 - JsonWebTokenError: invalid token
+WARN 25/06/2020, 09:40:40 - response with error status 409 - UnexistenceError: Establishment with id 5ef44855f6c4860cd3a2a276 does not exist
+WARN 25/06/2020, 09:40:40 - response with error status 409 - UnexistenceError: Establishment with id 5ef44855f6c4860cd3a2a276 does not exist
+WARN 25/06/2020, 09:40:40 - response with error status 409 - UnexistenceError: Establishment with id 5ef44855f6c4860cd3a2a276 does not exist
+WARN 25/06/2020, 09:57:33 - response with error status 409 - UnexistenceError: Establishment with nif 12345678A does not exist
+WARN 25/06/2020, 11:03:55 - response with error status 401 - CredentialsError: wrong password
+WARN 03/09/2020, 11:19:09 - response with error status 401 - CredentialsError: wrong password
